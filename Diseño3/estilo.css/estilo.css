@@ -1,0 +1,72 @@
+
+
+.principal{
+
+   background-color: chocolate;
+}
+
+
+.horarios{
+    background-color: rgba(44, 100, 51, 0.986);
+}
+
+/*HORARIOS DE ATENCION*/
+
+.lunes1{font-size: x-large;color: aqua;}
+.martes2{font-size: x-large;color: blue;}
+.miercoles3{font-size: x-large;color: brown;}
+.jueves4{font-size: x-large;color: deeppink;}
+.viernes5{font-size: x-large;color: red;}
+.sabado6{font-size: x-large;color: gold;}
+.domingo7{font-size: x-large;color: greenyellow;}
+
+
+.horalunes{color: aqua;}
+.horamartes{color: blue;}
+.horamiercoles{color: brown;}
+.horajueves{color: deeppink;}
+.horavviernes{color: red;}
+.horasabado{color: gold;}
+.horadomingo{color: greenyellow;}
+
+
+
+/*HEADER PRINCIPAL*/
+
+
+
+ .caja{
+   background-color: rgb(226, 226, 43);
+   border: 1px solid black;
+   width: 240px;
+}
+.nav1{
+    display:flex;
+    
+
+
+}
+
+.footerdelinicio{
+
+    background-color: brown;
+    width: 10%;
+    margin-top: 5%;
+    margin-left: 39%;
+    height: 250px;
+}
+
+
+
+
+        h1 {
+            text-align: center;
+        }
+        
+        /* Estilo CSS para la imagen */
+        img {
+            display: block; /* Esto hace que la imagen sea un bloque, lo que la coloca debajo del título */
+            margin: 0 auto; /* Esto centra la imagen horizontalmente en el contenedor */
+        }
+    
+
